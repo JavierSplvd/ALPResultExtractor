@@ -1,4 +1,4 @@
-from Table import Table
+from main.Table import Table
 
 
 class Main:
