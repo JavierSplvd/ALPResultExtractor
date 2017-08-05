@@ -1,5 +1,7 @@
 This is the test file
 
+This is a random title
+abc,def
 TableA
 START_TABLE
 1,2,3
@@ -8,8 +10,8 @@ END_TABLE
 
 TableB
 START_TABLE
-1
 2
+3.5
 3
 4
 5
